@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Blaka&display=swap');
+
+*{
+    font-family: 'Blaka', cursive;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+header{
+    height: 70px;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    background-color: #000;
+    line-height: 70px;
+    font-size: 35px;
+    margin-bottom: 5px;
+}
+
+#styles{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 5px;
+}
+
+#pencil{
+    display: flex;
+    align-items: center;
+}
